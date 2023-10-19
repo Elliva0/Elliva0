@@ -1,1 +1,1 @@
-Write-output "Hello world"
+$Output = $wshell.Popup("Скрипт УСПЕШНО выполнен. ВЫ ЗАРАЖЕНЫ!!!!!!")
